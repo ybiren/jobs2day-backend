@@ -1,0 +1,8 @@
+div:where(.swal2-container) button:where(.swal2-styled):where(.swal2-confirm) {
+    background-color: #2b5f60 !important;
+}
+.admin-logo{
+    max-width: 200px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
